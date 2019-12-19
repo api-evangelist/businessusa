@@ -1,0 +1,41 @@
+{
+    "name": "BusinessUSA",
+    "description": "<p>Too often, interactions with the government are burdensome and frustrating. From seeking out financing opportunities to learning about the latest regulations affecting them, hard-working businesses are spending too much time navigating the federal bureaucracy. On October 28, 2011, the President issued a challenge to government agencies to think beyond their organizational boundaries in the best interest of serving America's business community, and start thinking and acting more like the businesses they serve.<\/p>",
+    "image": "http:\/\/kinlane-productions.s3.amazonaws.com\/api-evangelist-site\/company\/logos\/businessusa-logo.png",
+    "tags": [
+        "api provider",
+        "business",
+        "have api"
+    ],
+    "created": "2019-12-19",
+    "modified": "2019-12-19",
+    "url": "https:\/\/raw.githubusercontent.com\/api-evangelist\/businessusa\/master\/apis.json",
+    "specificationVersion": "0.14",
+    "apis": [
+        {
+            "name": "BusinessUSA",
+            "description": null,
+            "image": "http:\/\/kinlane-productions.s3.amazonaws.com\/api-evangelist-site\/company\/logos\/businessusa-logo.png",
+            "humanURL": "http:\/\/business.usa.gov",
+            "baseURL": "",
+            "tags": [],
+            "properties": [
+                {
+                    "type": "x-openapi",
+                    "url": "https:\/\/raw.githubusercontent.com\/api-evangelist\/1forge\/master\/businessusa-openapi.json"
+                }
+            ]
+        }
+    ],
+    "include": [],
+    "x-common": [
+        {
+            "type": "Developers",
+            "url": "http:\/\/business.usa.gov\/developer"
+        },
+        {
+            "type": "Website",
+            "url": "http:\/\/business.usa.gov"
+        }
+    ]
+}
